@@ -1,0 +1,1 @@
+# NewsletterAPI-Curaxo
